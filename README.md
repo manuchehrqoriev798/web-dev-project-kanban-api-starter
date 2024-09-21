@@ -1,6 +1,12 @@
-# Getting Started with Web Dev Project Kanban API
+## Example 1: User Registration/Verification via Postman
+![User Registration Postman](/img/postman.png)
 
-This project is a starter template for building a REST API using Go, and is meant to be used alongside [this YouTube tutorial.](https://youtu.be/tIPCFW_nqZM?si=qlc5lDvsqfd0kCq4).
+
+# Getting Started with Web Dev Project Kanban API
+[this YouTube tutorial.](/img/database.png)
+
+
+
 
 ## Prerequisites
 

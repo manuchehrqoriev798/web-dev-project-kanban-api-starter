@@ -2,8 +2,8 @@
 ![User Registration Postman](/img/postman.png)
 
 
-# Getting Started with Web Dev Project Kanban API
-[this YouTube tutorial.](/img/database.png)
+## Getting Started with Web Dev Project Kanban API
+![Database](/img/database.png)
 
 
 
